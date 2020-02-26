@@ -15,11 +15,14 @@ The data consists of tweets about which we have 5 set of information, namely
 I will have multiple models where 
 
 I will use :
-  - either Stemming or Lemmatizing
-  - one of the following three vecorization method:
+  - one of the following approcahes during the celaning process:
+      1) Stemming (Porter stemming)
+      2) Lemmatizing (WordNet Lemmatizer)
+    - one of the following three vecorization method:
       1) Count Vectorization
       2) N-gram
       3) Tfdif Vectorization
   - build and compare a random forest classifier and a gradient boost classifier with default parameters
   - optimize the classifiers' hyper-parameters and then compare them. 
-  
+
+As a result, I will have 12 folders. For instance in the first one I will be using stemming, count vectorization and un-optimazed random forest model. 
