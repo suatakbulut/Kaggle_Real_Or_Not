@@ -1,0 +1,12 @@
+				Results of the non-optimized model
+
+---------------------------------------------------------------------------------
+Precision: 0.825 	 Recall: 0.539 	 Accuracy: 0.762
+
+---------------------------------------------------------------------------------
+
+				Optimization Results
+
+---------------------------------------------------------------------------------
+n_estimators: 20 	 learning_rate: 0.1 	 Precision: 0.882 	 Recall: 0.297 	 Accuracy: 0.693
+n_estimators: 20 	 learning_rate: 1 	 Precision: 0.73 	 Recall: 0.68 	 Accuracy: 0.764

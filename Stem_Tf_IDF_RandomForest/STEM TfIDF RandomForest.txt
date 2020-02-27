@@ -1,0 +1,20 @@
+				Results of the non-optimized model
+
+---------------------------------------------------------------------------------
+Precision: 0.774 	 Recall: 0.629 	 Accuracy: 0.764
+
+---------------------------------------------------------------------------------
+
+				Optimization Results
+
+---------------------------------------------------------------------------------
+n_estimators: 20 	 Precision: 0.779 	 Recall: 0.653 	 Accuracy: 0.773
+n_estimators: 70 	 Precision: 0.777 	 Recall: 0.667 	 Accuracy: 0.777
+n_estimators: 120 	 Precision: 0.79 	 Recall: 0.672 	 Accuracy: 0.784
+n_estimators: 170 	 Precision: 0.789 	 Recall: 0.664 	 Accuracy: 0.781
+n_estimators: 220 	 Precision: 0.782 	 Recall: 0.67 	 Accuracy: 0.78
+n_estimators: 270 	 Precision: 0.776 	 Recall: 0.672 	 Accuracy: 0.777
+n_estimators: 320 	 Precision: 0.78 	 Recall: 0.67 	 Accuracy: 0.779
+n_estimators: 370 	 Precision: 0.779 	 Recall: 0.669 	 Accuracy: 0.778
+n_estimators: 420 	 Precision: 0.779 	 Recall: 0.673 	 Accuracy: 0.779
+n_estimators: 470 	 Precision: 0.78 	 Recall: 0.666 	 Accuracy: 0.777
