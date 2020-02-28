@@ -25,4 +25,4 @@ I will use :
   - build and compare a random forest classifier and a gradient boost classifier with default parameters
   - optimize the classifiers' hyper-parameters and then compare them. 
 
-As a result, I will have 12 folders. For instance in the first one I will be using stemming, count vectorization and un-optimazed random forest model. 
+As a result, I will have 12 folders. For instance in the first one I will be using stemming, count vectorization and random forest model. 
